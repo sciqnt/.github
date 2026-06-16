@@ -1,0 +1,7 @@
+name: ci
+on:
+  push: { branches: [main] }
+  pull_request:
+jobs:
+  ci:
+    uses: sciqnt/sq-constitution/.github/workflows/ci.yml@v1

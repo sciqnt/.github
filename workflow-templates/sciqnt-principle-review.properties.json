@@ -1,0 +1,6 @@
+{
+  "name": "sciqnt — principle-review (judgment gate)",
+  "description": "Inherit the advisory principle-review agent + auto-merge-on-aligned. Needs the org CLAUDE_CODE_OAUTH_TOKEN secret.",
+  "iconName": "shield-check",
+  "categories": ["sciqnt"]
+}

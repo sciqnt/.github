@@ -1,0 +1,6 @@
+{
+  "name": "sciqnt — issue-triage",
+  "description": "Inherit the iterative issue-triage agent (close / needs-info / propose-PR + labels). Needs the org agent secrets.",
+  "iconName": "issue-opened",
+  "categories": ["sciqnt"]
+}

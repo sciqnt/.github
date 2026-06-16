@@ -1,0 +1,6 @@
+{
+  "name": "sciqnt — @claude fix-mode",
+  "description": "Inherit @claude maintainer fix-mode. Needs the org CLAUDE_CODE_OAUTH_TOKEN / APP_ID / APP_PRIVATE_KEY secrets.",
+  "iconName": "tools",
+  "categories": ["sciqnt"]
+}

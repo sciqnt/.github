@@ -1,0 +1,6 @@
+{
+  "name": "sciqnt — CI (conformance gate)",
+  "description": "Inherit the org's reusable CI: tests + conformance across the Python matrix.",
+  "iconName": "check-circle",
+  "categories": ["sciqnt", "Python"]
+}
